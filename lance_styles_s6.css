@@ -580,7 +580,8 @@ div .confirmValue { padding-top:3px; }
 
 .form1Part { padding:10px; }
 
-.form2Part, .form1Part, .mylistsSavePage form  { background:#FFFFFF url(tile_vgradient.jpg) repeat-x scroll left top; border:1px solid #D3D3D3; float:left; margin-bottom:15px; }
+/*.form2Part, .form1Part, .mylistsSavePage form  { background:#FFFFFF url(tile_vgradient.jpg) repeat-x scroll left top; border:1px solid #D3D3D3; float:left; margin-bottom:15px; }*/
+.form2Part, .form1Part, .mylistsSavePage form  { background:#FFFFFF; border:1px solid #D3D3D3; float:left; margin-bottom:15px; }
 
 .form2Part fieldset, .form1Part fieldset { padding:0.35em 2em 0.75em 0; }
 
